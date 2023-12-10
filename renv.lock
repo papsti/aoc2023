@@ -53,6 +53,13 @@
       ],
       "Hash": "dea6970ff715ca541c387de363ff405e"
     },
+    "english": {
+      "Package": "english",
+      "Version": "1.2-6",
+      "Source": "Repository",
+      "Repository": "RSPM",
+      "Hash": "eae5ce5432c3e995bc4aab2e612df7a5"
+    },
     "fansi": {
       "Package": "fansi",
       "Version": "1.0.4",
@@ -170,13 +177,13 @@
     },
     "rprojroot": {
       "Package": "rprojroot",
-      "Version": "2.0.3",
+      "Version": "2.0.4",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Requirements": [
         "R"
       ],
-      "Hash": "1de7ab598047a87bba48434ba35d497d"
+      "Hash": "4c8415e0ec1e29f3f4f6fc108bef0144"
     },
     "stringi": {
       "Package": "stringi",
